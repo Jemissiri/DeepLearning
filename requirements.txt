@@ -1,0 +1,10 @@
+numpy
+matplotlib
+plotly
+pandas
+keras
+notebook
+jupyterlab
+scipy
+scikit-learn
+nltk
