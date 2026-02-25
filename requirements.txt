@@ -8,3 +8,5 @@ jupyterlab
 scipy
 scikit-learn
 nltk
+tensorflow
+seaborn
